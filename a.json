@@ -1,0 +1,69 @@
+{
+  "kasittelyajat": {
+    "henkilotiedot": {
+      "nimi": "Henkilötietojen syöttäminen",
+      "aika": 3,
+      "osuus": 100
+    },
+    "veronumero": {
+      "nimi": "Tarkistukset - veronumero",
+      "aika": 0.5,
+      "osuus": 100
+    },
+    "valttikortti": {
+      "nimi": "Tarkistukset - valttikortti",
+      "aika": 0.5,
+      "osuus": 100
+    },
+    "turvallisuusselvitys": {
+      "nimi": "Turvallisuusselvityksen tietojen syöttö",
+      "aika": 5,
+      "osuus": 100
+    },
+    "veronumeroEpaselvyydet": {
+      "nimi": "Veronumero/valttikortti epäselvyyksien kyselyt",
+      "aika": 14,
+      "osuus": 4
+    },
+    "turvallisuusMuistutukset": {
+      "nimi": "Turvallisuusselvityksen seuranta muistutukset",
+      "aika": 4,
+      "osuus": 6
+    },
+    "kurssialusta": {
+      "nimi": "Henkilötietojen lisääminen kurssialustaan",
+      "aika": 3,
+      "osuus": 100
+    },
+    "azureAD": {
+      "nimi": "Henkilötietojen lisääminen käyttäjähallintaan",
+      "aika": 3,
+      "osuus": 100
+    },
+    "henkilötiedot_kulunhallinta": {
+      "nimi": "Henkilötietojen lisääminen kulunhallintaan",
+      "aika": 7,
+      "osuus": 100
+    },
+    "epaselvat": {
+      "nimi": "Epäselvät tapaukset - selvittely",
+      "aika": 45,
+      "osuus": 2
+    },
+    "kulkuoikeudet": {
+      "nimi": "Puuttuvien kulkuoikeuksien selvittely",
+      "aika": 45,
+      "osuus": 2
+    },
+    "poistot": {
+      "nimi": "Henkilötietojen poistaminen",
+      "aika": 1,
+      "osuus": 6
+    },
+    "tilaajien_kayttama_aika": {
+      "nimi": "Tilaajien käyttämä aika",
+      "aika": 5,
+      "osuus": 40
+    }
+  }
+}
